@@ -1,0 +1,50 @@
+html{
+    background-color: aqua;
+}
+
+hr{
+    border: solid black 4px;  
+}
+
+p{
+    
+    font-family: sans-serif;
+    font-size: 150%;
+    background-color: aqua;
+}
+ul{
+    
+    font-family: cursive;
+    font-size: 150%;
+    background-color: aqua;
+}
+h1,h3,h2{
+    
+    font-family: cursive;
+    text-align: center;
+    background-color: aqua;
+}
+form{
+    background-color: aqua;
+    text-align: center;
+}
+head,body,footer{
+    background-color: aqua;
+    
+}
+.one{
+    background-color: aqua;
+    text-align: center;
+}
+.ui.segment{
+    
+    background: aquamarine;
+}
+.ui.pointing.menu{
+    
+    background: aquamarine;
+}
+em a{
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
